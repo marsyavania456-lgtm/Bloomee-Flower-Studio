@@ -1,0 +1,8 @@
+{
+  "php": {
+    "version": "8.4"
+  },
+  "composer": {
+    "install_args": ["--optimize-autoloader", "--no-scripts", "--no-interaction"]
+  }
+}
